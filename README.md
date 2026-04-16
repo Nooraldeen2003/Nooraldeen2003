@@ -2,7 +2,7 @@
 
 # I'm Nooraldeen
 
-### Software Engineer | Full Stack Developer
+### Software Engineer | Backend Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=ASP.NET+Core+Web+API;Entity+Framework+Core;Database+Designer;SQL+Server+%26+Oracle;Backend+Development;Web+%26+Mobile+Development)](https://git.io/typing-svg)
 
