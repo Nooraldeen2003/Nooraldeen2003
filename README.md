@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
 </a>
 &nbsp;
-<a href="mailto:alnasaratn@gmail.com">
+<a href="mailto:nooraldeen.alnasarat03@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="48" />
 </a>
 
